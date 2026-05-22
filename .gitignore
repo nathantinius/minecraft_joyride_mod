@@ -1,4 +1,5 @@
 .DS_Store
+.claude/
 *.mcaddon
 !joyride2.5.mcaddon
 *.mcpack
