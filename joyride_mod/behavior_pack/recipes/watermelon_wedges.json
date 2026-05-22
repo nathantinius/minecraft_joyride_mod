@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "joyride:watermelon_wedges"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "  S",
+      "M M",
+      "MMM"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "M": {
+        "item": "minecraft:melon_slice"
+      }
+    },
+    "result": {
+      "item": "joyride:watermelon_wedges",
+      "count": 1
+    }
+  }
+}

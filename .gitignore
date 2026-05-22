@@ -1,0 +1,4 @@
+.DS_Store
+*.mcaddon
+!joyride2.5.mcaddon
+*.mcpack

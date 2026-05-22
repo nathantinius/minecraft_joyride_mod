@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "joyride",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cherry_berry_ropes": {
+      "textures": "textures/items/cherry_berry_ropes"
+    },
+    "watermelon_wedges": {
+      "textures": "textures/items/watermelon_wedges"
+    },
+    "green_apple_strips": {
+      "textures": "textures/items/green_apple_strips"
+    }
+  }
+}
