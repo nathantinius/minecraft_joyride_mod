@@ -13,12 +13,12 @@ The mod adds three craftable candy items:
 All three candies use the same crafting pattern:
 
 ```
-    S
-  X X
-  X X X
+[] [] S
+X [] X
+X  X X
 ```
 
-Where `S` = Sugar and `X` = the fruit ingredient.
+Where `[]` is empty, `S` = Sugar and `X` = the fruit ingredient.
 
 ## What Happens When You Eat One
 
